@@ -1,3 +1,5 @@
 build:
   docker:
       worker: Dockerfile
+deploy:
+    - Heroku stack deploy --build -f docker-compose.yml
