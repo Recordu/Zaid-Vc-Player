@@ -113,7 +113,9 @@
 - Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Superior_Support) if you face any problem
 
 </details>
+## 🚀 HEROKU Deployment
 
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Recordu/Zaid-Vc-Player)
 
 ## 🚀 Okteto Deployment
 
