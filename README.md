@@ -114,8 +114,9 @@
 
 </details>
 ## 🚀 HEROKU Deployment
+Press the following button to deploy on HEROKU.
 
-[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Recordu/Zaid-Vc-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Recordu/Zaid-Vc-Player)
 
 ## 🚀 Okteto Deployment
 
